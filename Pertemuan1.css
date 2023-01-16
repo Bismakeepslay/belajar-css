@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family:'Gill sans', Sans-Serif;
+}
+
+h3 {
+  color: #f17a7a;
+  background: #506e0b;
+}
+
+h1 {
+  padding: 25px;
+  text-align: center;
+}
